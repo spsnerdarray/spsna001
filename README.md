@@ -3,7 +3,7 @@ CODESYS Projekt zur SPS Nerdarray Episode 20
 
 
 PLC_PRG
-```
+```IEC
 PROGRAM PLC_PRG
 VAR
 	
